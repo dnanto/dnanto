@@ -13,6 +13,9 @@ Scholar
 Code
 - [GitHub](https://github.com/dnanto)
 
+Math
+- [GeoGebra](https://www.geogebra.org/u/dnanto)
+
 Demoscene
 - [Demozoo](https://demozoo.org/sceners/118125/)
 - [pouët](https://www.pouet.net/user.php?who=104045)

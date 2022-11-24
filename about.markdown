@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# Daniel Antonio Negrón
-
 Scholar
 - [Zotero](https://www.zotero.org/dnanto/cv)
 - [Google Scholar](https://scholar.google.com/citations?user=iEz2FjoAAAAJ&hl=en)
@@ -20,8 +18,9 @@ Math
 Demoscene
 - [Demozoo](https://demozoo.org/sceners/118125/)
 - [pouët](https://www.pouet.net/user.php?who=104045)
-- [SoundCloud](https://soundcloud.com/)
+- [SoundCloud](https://soundcloud.com/remaindeer)
 - [Shadertoy](https://www.shadertoy.com/user/remaindeer)
 
 Sports
 - [YouTube](https://www.youtube.com/channel/UCSC6fviKr9oX2Ijk3LeBf8w)
+- [District Broomball Stats](http://binf.gmu.edu/dnegron2/broomball/)

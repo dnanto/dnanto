@@ -8,6 +8,7 @@ Scholar
 - [Zotero](https://www.zotero.org/dnanto/cv)
 - [Google Scholar](https://scholar.google.com/citations?user=iEz2FjoAAAAJ&hl=en)
 - [ORCiD](https://orcid.org/0000-0002-6123-2441)
+- [Academic Family Tree](https://academictree.org/compbio/peopleinfo.php?pid=895571)
 
 Code
 - [GitHub](https://github.com/dnanto)

@@ -32,8 +32,6 @@
 
 -   League stats @ [District Broomball Stats](http://binf.gmu.edu/dnegron2/broomball/)
 
-<!-- CSS -->
-
 <title>学者𐂅𐂂</title>
 
 <style>

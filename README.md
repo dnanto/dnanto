@@ -1,5 +1,3 @@
-<title>学者𐂅𐂂</title>
-
 # 学者𐂅𐂂
 
 ## Academia
@@ -33,6 +31,8 @@
 -   Helmet cam @ [YouTube](https://www.youtube.com/watch?v=8glrJjD1Pkw&list=PLNSP_ilGaXG8CR7_FsrVrKOAGp_njeZw9)
 
 -   League stats @ [District Broomball Stats](http://binf.gmu.edu/dnegron2/broomball/)
+
+<title>学者𐂅𐂂</title>
 
 <style>
     html, body {

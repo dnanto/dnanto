@@ -69,7 +69,7 @@ Conduct research under the supervision of Dr. George Ogurek Zimmerman. Program a
 
 **Capsid Modeling** \hfill \break
 _Render viral capsids using Caspar-Klug Theory_ \hfill May 2020 – Present \break
-In the browser with JavaScript to export SVG diagrams (democapsid @ https://dnanto.github.io/democapsid/capsid.html). On the GPU with GLSL for realtime renders (protocapsid @ https://www.shadertoy.com/view/dlsGRH).
+In the browser with JavaScript to export SVG diagrams (democapsid @ https://dnanto.github.io/democapsid/app.html). On the GPU with GLSL for realtime renders (protocapsid @ https://www.shadertoy.com/view/dlsGRH).
 
 **District Broomball Statistics** \hfill \break
 _Database and website for league statistics_ \hfill Jun 2019 – Present \break
